@@ -1,0 +1,21 @@
+*{margin:0px; padding:0px; box-sizing:border-box;}
+a{color:black;
+  margin:6px; 
+  text-decoration:none;
+  font-size:24px;}
+.h1:hover{color:#0B3F06;border:1px;
+	    border-radius:6px;
+        background-color:#9B573D;}
+nav{margin-top:5px; padding:5px;  
+    background-color:#CFC871;}
+header{
+       background-color:#852E0E; height:60px;}
+footer{position:fixed;
+       bottom:0; right:0; left:0;
+       text-align:center;
+       font-size:20px; 
+       background-color:#852E0E;
+       color:whitesmoke;}
+i{float:right; margin:7px; padding:7px;}
+h2{color:navajowhite; float:left; font-size:38px; padding:10px;}
+.ab1{float:right;}
