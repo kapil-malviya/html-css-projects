@@ -1,0 +1,13 @@
+h2{ 
+   color:red;
+   border:1px solid green;
+   }
+#p1,#p2{
+        color:blue;
+        }
+p{
+  border:1px solid purple;
+  }
+h2,#p1,#p2,p{
+             background-color:pink;
+             }
