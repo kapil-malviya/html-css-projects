@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> html form input (pattern) validators </title>
+</head>
+<body>
+
+<form class="" action="submitted.html" method="get">
+
+<h2>only take 5 to 10 characters</h2>
+
+<label for="username" >Enter name : </label>
+<input id="username" type="text" name="" value="naaam" pattern=".{5,10}" title="minimum of 5 and maximum of 10 characters" required>
+
+
+
+<h2>only take lower case alphabatical (no max & min length) characters</h2>
+
+<label for="user" >Enter name : </label>
+<input id="user" type="text" name="" value="naaaaam" placeholder="Enter Naam" pattern="[a-z]*" title="only lowercase characters" required>
+
+
+
+<h2>only single digit allowed</h2>
+
+<label for="user" >Enter : </label>
+<input id="user" type="text" name="" value="" placeholder="Enter single digit" pattern="[0-9]" title="only digit" required>
+
+
+
+<h2>only digits(any number) allowed</h2>
+
+<label for="user" >Enter mobile number : </label>
+<input id="user" type="text" name="" value="" placeholder="Enter any number" pattern="[0-9]+" title="only digits" required>
+
+
+
+<!-- 
+
+*                   =  any number of characters
++                   =  atleast one character
+\w                  =  any word character
+[a-zA-Z0-9]         =  alpha(lower/upper) numeric
+
+read about it in regular expressions
+ -->
+
+
+<br><br>
+<br><hr><br>
+<input type="submit" name="submit">
+
+</form>
+
+</body>
+</html>
