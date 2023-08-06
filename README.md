@@ -37,11 +37,6 @@ and design elements.
 ![bike]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/kapil-malviya/HTML-CSS/blob/main/images/bikes.png))
 
 
-<a href="https://github.com/kapil-malviya/HTML-CSS">
-    <img src="images/bikes.png" alt="Logo" width="80" height="80">
-  </a>
-
-
 ## Frameset Project
 
 Explore the concept of framesets in HTML by creating a practical project. Learn how to divide a web page into multiple 
