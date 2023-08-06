@@ -34,6 +34,9 @@ Build a simple yet engaging website for showcasing bikes. Apply your HTML and CS
 website that features images, descriptions, and details of various bike models. Learn how to create responsive layouts 
 and design elements.
 
+![bike]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/kapil-malviya/HTML-CSS/blob/main/images/bikes.png))
+
+
 <a href="https://github.com/kapil-malviya/HTML-CSS">
     <img src="images/bikes.png" alt="Logo" width="80" height="80">
   </a>
