@@ -8,8 +8,8 @@ using HTML and CSS.
 1. [Introduction to HTML and CSS](#introduction-to-html-and-css)
 2. [Basic HTML Concepts](#basic-html-concepts)
 3. [Basic CSS Concepts](#basic-css-concepts)
-4. [Bikes Website](#bikes-website)
-5. [Frameset Project](#frameset-project)
+4. [Bikes Website](#https://github.com/kapil-malviya/HTML-CSS/tree/main/static%20website)
+5. [Frameset Project](#https://github.com/kapil-malviya/HTML-CSS/tree/main/frameset)
 6. [Contributing](#contributing)
 
 
