@@ -34,7 +34,7 @@ Build a simple yet engaging website for showcasing bikes. Apply your HTML and CS
 website that features images, descriptions, and details of various bike models. Learn how to create responsive layouts 
 and design elements.
 
-![bike]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/kapil-malviya/HTML-CSS/blob/main/images/bikes.png))
+![Bikes Project](images/bikes.png)
 
 
 ## Frameset Project
