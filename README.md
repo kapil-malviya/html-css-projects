@@ -1,5 +1,4 @@
-
-# HTML and CSS Basics: A Practical Guide
+# Basics Projects : HTML & CSS
 
 This repository is designed to provide you with hands-on experience in creating dynamic and visually appealing web content 
 using HTML and CSS.
@@ -7,27 +6,15 @@ using HTML and CSS.
 ## Table of Contents
 
 1. [Introduction to HTML and CSS](#introduction-to-html-and-css)
-2. [Basic HTML Concepts](#basic-html-concepts)
-3. [Basic CSS Conceptsz](#basic-css-concepts)
-4. [Bikes Website](https://github.com/kapil-malviya/HTML-CSS/tree/main/static%20website)
-5. [Frameset Project](https://github.com/kapil-malviya/HTML-CSS/tree/main/frameset)
-6. [Contributing](#contributing)
+2. [Bikes Website](https://github.com/kapil-malviya/HTML-CSS/tree/main/static%20website)
+3. [Frameset Project](https://github.com/kapil-malviya/HTML-CSS/tree/main/frameset)
+4. [Contributing](#contributing)
 
 
 ## Introduction to HTML and CSS
 
 Get started with the basics of HTML and CSS. Learn how to structure web content using HTML and style it using CSS. 
 Understand the relationship between these two core technologies that form the backbone of modern web development.
-
-## Basic HTML Concepts
-
-Explore essential HTML elements and tags for creating the structure of web pages. Learn about headings, paragraphs, 
-lists, links, images, forms, and more. Master the art of structuring content effectively.
-
-## Basic CSS Concepts
-
-Dive into the world of CSS and discover how to style your HTML elements. Learn about selectors, properties, values, 
-colors, typography, margins, padding, and more. Enhance the visual appeal of your web pages with custom styles.
 
 ## Bikes Website
 
