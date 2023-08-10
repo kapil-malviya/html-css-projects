@@ -60,7 +60,7 @@ fellow learners.
 To begin your journey with HTML and CSS, clone this repository to your local machine:
 
 ```
-git clone https://github.com/kapil-malviya/HTML-CSS.git
+git clone https://github.com/kapil-malviya/html-css-projects.git
 ```
 
 Explore the different sections, follow the tutorials, and experiment with the provided code examples. By the end of your 
